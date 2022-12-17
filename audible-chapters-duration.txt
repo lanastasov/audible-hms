@@ -1,0 +1,73 @@
+Opening Credits00:23
+Preface by Josh Tyson07:27
+Introduction: Conversational AI, My White Whale by Robb Wilson11:58
+Part I: Imagining an Ecosystem of Intelligent Digital Workers02:57
+Chapter 1: Hyperautomation Is Already Here09:13
+Hyperautomation Minus the Hype13:14
+Hyperautomation Brings Hyperdisruption02:55
+Key Takeaways01:08
+Chapter 2: What Conversational Artificial Intelligence Is—and Isn't04:04
+Dispelling Common Myths About Conversational Artificial Intelligence17:30
+Key Takeaways00:52
+Chapter 3: Competing in the Age of Hyperautomation01:30
+What Successful Hyperautomation Can Look Like04:50
+To Stay Competitive, Hyperautomate03:19
+Key Takeaways01:20
+Chapter 4: The Ethics of Experiential AI14:50
+Idea in Brief: How Do I Talk About AI?01:20
+Key Takeaways01:04
+Chapter 5: How Hyperautomation Can Change the World01:42
+Hyperautomation Swings a Mighty Axe02:09
+Where There's Hyperautomation, There's Hyperdisruption49:24
+It's the Internet of Things, but For Real This Time05:31
+Key Takeaways01:03
+Chapter 6: This Journey Has Been Personal06:42
+Key Takeaways00:45
+Part II: Planning an Ecosystem of Intelligent Digital Workers06:08
+Chapter 7: Learning the Terms11:15
+Key Takeaways00:55
+Chapter 8: The Dream vs. Reality02:52
+Idea in Brief: Operating Without Design Strategy04:44
+Key Takeaways01:01
+Chapter 9: Ecosystem Evolution Explained01:03
+The Four Evolution Phases of an IDW02:51
+Spending Quality Time with IDWs03:21
+Tracing an Example Through All Four Evolutionary Stages04:39
+Key Takeaways01:02
+Chapter 10: Teams and the Co-Creation Mindset04:18
+Meet the Team10:35
+A Day in the Life of a Strategic Liaison06:05
+Idea in Brief: Get Your Team “Design Thinking”04:29
+Key Takeaways01:01
+Chapter 11: Preparing Tools and Architecture11:57
+Microservices at the Core07:52
+Orchestrating Hyperautomation Requires an Open System12:36
+Feasibility Is All About Speed21:06
+Key Takeaways01:09
+Chapter 12: Vetting Your Vendors00:58
+The Cobbler's Children Have New Shoes: The Feasibility Vendor Litmus Test08:22
+Whatever You Do, Don't Overlook UX06:07
+Key Takeaways00:56
+Chapter 13: Articulating Your Strategy to Others10:14
+The Path to Persuasion06:54
+Key Takeaways00:50
+Part III: Building an Ecosystem of Intelligent Digital Workers01:20
+Chapter 14: The Process of Hyperautomating23:37
+Key Takeaways01:38
+Chapter 15: Design Strategy for Hyperautomation04:24
+Design for Human-Controlled Outcomes03:42
+Sequencing Patterns for a Successful Ecosystem07:23
+Key Patterns to Sequence for Conversational AI19:14
+Patterns in Action01:05
+Key Takeaways01:10
+Chapter 16: Production Design for Hyperautomation03:45
+Everything Hinges on Analytics and Reporting07:24
+Strive for Adaptative Design04:53
+Best Practices in Analytics and Reporting02:52
+Key Takeaways01:26
+Chapter 17: Best Practices in Conversational Design33:21
+Two Important Morphisms04:57
+Key Takeaway: Production Design Checklist15:38
+Part IV: Conclusion00:04
+Chapter 18: Where Do We Go from Here?14:24
+End Credits00:51
