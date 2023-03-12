@@ -20,7 +20,7 @@ ffmpeg -i "concat:file1.mp3|file2.mp3" -acodec copy output.mp3
 -------------------------------------------------------------------------------
 
 #syncrhonize folders locally
-rsync -cavu /home/lanastasov/Downloads/audio-books/ /run/media/lanastasov/New Volume/audio-books/
+rsync -cavu /home/lanastasov/Downloads/audio-books/ '/run/media/lanastasov/New Volume/audio-books/'
 
 -------------------------------------------------------------------------------
 
