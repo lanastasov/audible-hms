@@ -18,3 +18,16 @@ This will concatenate two mp3 files, and the resulting metadata will be that of 
 ffmpeg -i "concat:file1.mp3|file2.mp3" -acodec copy output.mp3
 
 -------------------------------------------------------------------------------
+
+#syncrhonize folders locally
+rsync -cavu /home/lanastasov/Downloads/audio-books/ /run/media/lanastasov/New Volume/audio-books/
+
+-------------------------------------------------------------------------------
+
+#replace : as - in all filenames in current directory
+for file in ./*; do
+	mv "$file" "${file//:/-}"
+done
+
+-------------------------------------------------------------------------------
+
