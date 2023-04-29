@@ -36,3 +36,6 @@ for i in {1..19}; do echo -n $((i))".mp3|"; done
 
 
 -------------------------------------------------------------------------------
+ffmpeg -ss 30 -t 70 -i inputfile.mp3 -acodec copy outputfile.mp3
+# slice inputfile.mp3 from 30sec to 70sec to outputfile.mp3
+-------------------------------------------------------------------------------
