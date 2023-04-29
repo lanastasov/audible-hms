@@ -1,0 +1,248 @@
+{
+    "content_metadata": {
+        "chapter_info": {
+            "brandIntroDurationMs": 3924,
+            "brandOutroDurationMs": 4945,
+            "chapters": [
+                {
+                    "length_ms": 18881,
+                    "start_offset_ms": 0,
+                    "start_offset_sec": 0,
+                    "title": "Opening Credits"
+                },
+                {
+                    "length_ms": 9240,
+                    "start_offset_ms": 18881,
+                    "start_offset_sec": 19,
+                    "title": "Publisher's Note"
+                },
+                {
+                    "length_ms": 615655,
+                    "start_offset_ms": 28121,
+                    "start_offset_sec": 28,
+                    "title": "Introduction"
+                },
+                {
+                    "chapters": [
+                        {
+                            "length_ms": 547108,
+                            "start_offset_ms": 676353,
+                            "start_offset_sec": 676,
+                            "title": "1. Thinking in Layers and Aspects"
+                        },
+                        {
+                            "length_ms": 1031871,
+                            "start_offset_ms": 1223461,
+                            "start_offset_sec": 1223,
+                            "title": "2. Seeing the Big Picture"
+                        },
+                        {
+                            "length_ms": 932071,
+                            "start_offset_ms": 2255332,
+                            "start_offset_sec": 2255,
+                            "title": "3. Recognizing the Potential"
+                        }
+                    ],
+                    "length_ms": 32577,
+                    "start_offset_ms": 643776,
+                    "start_offset_sec": 644,
+                    "title": "Stage 1: Terminology and Technical Foundations"
+                },
+                {
+                    "chapters": [
+                        {
+                            "length_ms": 512697,
+                            "start_offset_ms": 3227736,
+                            "start_offset_sec": 3228,
+                            "title": "4. Discovering the Core Problem"
+                        },
+                        {
+                            "length_ms": 551589,
+                            "start_offset_ms": 3740433,
+                            "start_offset_sec": 3740,
+                            "title": "5. Disambiguating the Term"
+                        },
+                        {
+                            "length_ms": 1009789,
+                            "start_offset_ms": 4292022,
+                            "start_offset_sec": 4292,
+                            "title": "6. Understanding the Nature of Ownership"
+                        },
+                        {
+                            "length_ms": 658286,
+                            "start_offset_ms": 5301811,
+                            "start_offset_sec": 5302,
+                            "title": "7. Spending Money Twice"
+                        }
+                    ],
+                    "length_ms": 40333,
+                    "start_offset_ms": 3187403,
+                    "start_offset_sec": 3187,
+                    "title": "Stage 2: Why the Blockchain Is Needed"
+                },
+                {
+                    "chapters": [
+                        {
+                            "length_ms": 695901,
+                            "start_offset_ms": 5997248,
+                            "start_offset_sec": 5997,
+                            "title": "8. Planning the Blockchain"
+                        },
+                        {
+                            "length_ms": 752791,
+                            "start_offset_ms": 6693149,
+                            "start_offset_sec": 6693,
+                            "title": "9. Documenting Ownership"
+                        },
+                        {
+                            "length_ms": 927311,
+                            "start_offset_ms": 7445940,
+                            "start_offset_sec": 7446,
+                            "title": "10. Hashing Data"
+                        },
+                        {
+                            "length_ms": 1301965,
+                            "start_offset_ms": 8373251,
+                            "start_offset_sec": 8373,
+                            "title": "11. Hashing in the Real World"
+                        },
+                        {
+                            "length_ms": 1041671,
+                            "start_offset_ms": 9675216,
+                            "start_offset_sec": 9675,
+                            "title": "12. Identifying and Protecting User Accounts"
+                        },
+                        {
+                            "length_ms": 744036,
+                            "start_offset_ms": 10716887,
+                            "start_offset_sec": 10717,
+                            "title": "13. Authorizing Transactions"
+                        },
+                        {
+                            "length_ms": 1337051,
+                            "start_offset_ms": 11460923,
+                            "start_offset_sec": 11461,
+                            "title": "14. Storing Transaction Data"
+                        },
+                        {
+                            "length_ms": 821267,
+                            "start_offset_ms": 12797974,
+                            "start_offset_sec": 12798,
+                            "title": "15. Using the Data Store"
+                        },
+                        {
+                            "length_ms": 1045315,
+                            "start_offset_ms": 13619241,
+                            "start_offset_sec": 13619,
+                            "title": "16. Protecting the Data Store"
+                        },
+                        {
+                            "length_ms": 918534,
+                            "start_offset_ms": 14664556,
+                            "start_offset_sec": 14665,
+                            "title": "17. Distributing the Data Store Among Peers"
+                        },
+                        {
+                            "length_ms": 1451502,
+                            "start_offset_ms": 15583090,
+                            "start_offset_sec": 15583,
+                            "title": "18. Verifying and Adding Transactions"
+                        },
+                        {
+                            "length_ms": 2106467,
+                            "start_offset_ms": 17034592,
+                            "start_offset_sec": 17035,
+                            "title": "19. Choosing a Transaction History"
+                        },
+                        {
+                            "length_ms": 692464,
+                            "start_offset_ms": 19141059,
+                            "start_offset_sec": 19141,
+                            "title": "20. Paying for Integrity"
+                        },
+                        {
+                            "length_ms": 977978,
+                            "start_offset_ms": 19833523,
+                            "start_offset_sec": 19834,
+                            "title": "21. Bringing the Pieces Together"
+                        }
+                    ],
+                    "length_ms": 37151,
+                    "start_offset_ms": 5960097,
+                    "start_offset_sec": 5960,
+                    "title": "Stage 3: How the Blockchain Works"
+                },
+                {
+                    "chapters": [
+                        {
+                            "length_ms": 866196,
+                            "start_offset_ms": 20852229,
+                            "start_offset_sec": 20852,
+                            "title": "22. Seeing the Limitations"
+                        },
+                        {
+                            "length_ms": 948999,
+                            "start_offset_ms": 21718425,
+                            "start_offset_sec": 21718,
+                            "title": "23. Reinventing the Blockchain"
+                        }
+                    ],
+                    "length_ms": 40728,
+                    "start_offset_ms": 20811501,
+                    "start_offset_sec": 20812,
+                    "title": "Stage 4: Limitations and Their Solutions"
+                },
+                {
+                    "chapters": [
+                        {
+                            "length_ms": 1181175,
+                            "start_offset_ms": 22707548,
+                            "start_offset_sec": 22708,
+                            "title": "24. Using the Blockchain"
+                        },
+                        {
+                            "length_ms": 1655705,
+                            "start_offset_ms": 23888723,
+                            "start_offset_sec": 23889,
+                            "title": "25. Summarizing and Going Further"
+                        }
+                    ],
+                    "length_ms": 40124,
+                    "start_offset_ms": 22667424,
+                    "start_offset_sec": 22667,
+                    "title": "Stage 5: Using the Blockchain, Summary, and Outlook"
+                },
+                {
+                    "length_ms": 48054,
+                    "start_offset_ms": 25544428,
+                    "start_offset_sec": 25544,
+                    "title": "End Credits"
+                }
+            ],
+            "is_accurate": true,
+            "runtime_length_ms": 25592482,
+            "runtime_length_sec": 25592
+        },
+        "content_reference": {
+            "acr": "CR!MRZEEKYKHS3F5CG9PY6J6345W0A9",
+            "asin": "1469078511",
+            "codec": "mp4a.40.2",
+            "content_format": "AAX_44_128",
+            "content_size_in_bytes": 412235433,
+            "file_version": "1",
+            "marketplace": "AF2M0KC94RCEA",
+            "sku": "BK_GDAN_003605",
+            "tempo": "1.0",
+            "version": "14766021"
+        },
+        "last_position_heard": {
+            "status": "DoesNotExist"
+        }
+    },
+    "response_groups": [
+        "always-returned",
+        "last_position_heard",
+        "chapter_info",
+        "content_reference"
+    ]
+}

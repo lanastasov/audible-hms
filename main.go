@@ -8,6 +8,7 @@ import (
     "strings"
     "strconv"
     "github.com/urfave/cli/v2"
+    "github.com/lanastasov/audible-hms/cmd/audiblejson"
 )
 
 func main() {
@@ -16,7 +17,8 @@ func main() {
         Usage: "calculate hours minutes and seconds from a txt file, gets the time from the last 5 characters on each line",
         Action: func(cCtx *cli.Context) error {
 		fmt.Printf("hello %q", cCtx.Args().Get(0))
-
+		
+		audiblejson.Chapters()
 
 		file, err := os.Open("./audible-chapters-duration.txt")
 		if err != nil {
