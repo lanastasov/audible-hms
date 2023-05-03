@@ -8,7 +8,6 @@ import (
     "strings"
     "strconv"
     "github.com/urfave/cli/v2"
-    "github.com/lanastasov/audible-hms/cmd/audiblejson"
 )
 
 func main() {
@@ -18,8 +17,6 @@ func main() {
         Action: func(cCtx *cli.Context) error {
 		fmt.Printf("hello %q", cCtx.Args().Get(0))
 		
-		audiblejson.Chapters()
-
 		file, err := os.Open("./audible-chapters-duration.txt")
 		if err != nil {
 			log.Fatal(err)
